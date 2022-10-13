@@ -1,4 +1,4 @@
-### Oii! Eu sou a Julia Andrade!
+### Olá! Eu sou a Julia Andrade!
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba
 - 😄 Pronouns: ela/dela
