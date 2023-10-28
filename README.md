@@ -24,9 +24,11 @@
  <a href="https://discord.gg/cg6ZkhsT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/julia-andrade-6b643018a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=D53c3d&random=false&width=435&lines=I+like+to+Heel+Toe+Downshift." alt="banner">
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
 
 </div>
 
