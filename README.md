@@ -1,3 +1,7 @@
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=D53c3d&random=false&width=435&lines=Hi+my+name+is+Julia+Andrade" alt="banner">
+</picture>
+
 ### Olá! Eu sou a Julia Andrade!
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba
