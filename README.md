@@ -3,7 +3,7 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba
 - 😄 Pronouns: ela/dela
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey, my name is Julia Andrade;Second+line+of+text)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/JULIAPANDRADE">
