@@ -13,14 +13,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JULIAPANDRADE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JULIAPANDRADE&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julia-Angular" height="33" width="33" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img align="center" alt="Julia-C" height="30" width="40" src="https://i.ytimg.com/vi/-JVytKv3eyw/hqdefault.jpg">
-  <img align="center" alt="Julia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<h2>Technologies</h2>
+<br>
+<div style="display: inline_block" align="center">
+ <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+ <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="C#" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+ <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
 </div>
+<br>
  
   ##
  
