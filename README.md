@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=FFFFFF&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
 </picture>
 
+##
+
+<br>
+<h2>Statistics📈</h2>
+<br>
 
 <div align="center">
   <a href="https://github.com/JULIAPANDRADE">
