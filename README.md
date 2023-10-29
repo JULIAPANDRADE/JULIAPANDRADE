@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEA7BE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=6495ED&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
 </picture>
@@ -38,6 +39,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEA7BE&height=120&section=footer"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
