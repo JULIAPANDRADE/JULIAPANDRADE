@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 
 <picture>
-  <h1 <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=FFFFFF&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner"></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=FFFFFF&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
 </picture>
 
 ##
