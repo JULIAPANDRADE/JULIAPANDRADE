@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=6495ED&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=FFFFFF&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
 </picture>
 
  - Cursando Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba
