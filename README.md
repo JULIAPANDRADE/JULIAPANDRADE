@@ -1,11 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 
 ## Hey, World!
-<picture>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Julia+Andrade;I'm+21+years+old.;I'm+from+Sorocaba-SP.;Be+welcome!)](https://git.io/typing-svg)
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=FFFFFF&random=false&width=435&lines=Hi+,+my+name+is+Julia+Andrade" alt="banner">
-</picture>
 
 ##
 <br>
